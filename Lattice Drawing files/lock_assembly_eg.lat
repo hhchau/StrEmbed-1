@@ -1,0 +1,11 @@
+(lock_assembly_eg
+    (lock_assembly_eg ())
+        (core_sub-assembly_g (lock_assembly_eg))
+            (lower_half_pin_x-depth_2 (core_sub-assembly_g))
+            (key_f (core_sub-assembly_g))
+            (core_c_one-pair_of_pins (core_sub-assembly_g))
+        (cylinder_sub-assembly_e (lock_assembly_eg))
+            (upper_half_pin_y_cut_depth_2 (cylinder_sub-assembly_e))
+            (cylinder_d_one-pair_of_pins (cylinder_sub-assembly_e))
+    (0 (core_c_one-pair_of_pins key_f lower_half_pin_x-depth_2 upper_half_pin_y_cut_depth_2 cylinder_d_one-pair_of_pins))
+)

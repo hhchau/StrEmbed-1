@@ -1,0 +1,6 @@
+lock_assy_5_parts_flat (level 0) [no parent]
+    + lower_half_pin_x-depth_2                         (level 1)    [NAUO4]
+    + core_c_one-pair_of_pins                          (level 1)    [NAUO2]
+    + upper_half_pin_y_cut_depth_2                     (level 1)    [NAUO5]
+    + key_f                                            (level 1)    [NAUO3]
+    + cylinder_d_one-pair_of_pins                      (level 1)    [NAUO1]

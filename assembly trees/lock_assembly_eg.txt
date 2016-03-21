@@ -1,0 +1,8 @@
+lock_assembly_eg (level 0) [no parent]
+    + core_sub-assembly_g                              (level 1)    [NAUO2]
+        + lower_half_pin_x-depth_2                     (level 2)    [NAUO4]
+        + key_f                                        (level 2)    [NAUO5]
+        + core_c_one-pair_of_pins                      (level 2)    [NAUO3]
+    + cylinder_sub-assembly_e                          (level 1)    [NAUO1]
+        + upper_half_pin_y_cut_depth_2                 (level 2)    [NAUO7]
+        + cylinder_d_one-pair_of_pins                  (level 2)    [NAUO6]

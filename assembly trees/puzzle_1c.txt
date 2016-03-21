@@ -1,0 +1,8 @@
+puzzle_1c (level 0) [no parent]
+    + CE                                               (level 1)    [NAUO2]
+        + C                                            (level 2)    [NAUO4]
+        + E                                            (level 2)    [NAUO5]
+    + A                                                (level 1)    [NAUO3]
+    + BD                                               (level 1)    [NAUO1]
+        + D                                            (level 2)    [NAUO7]
+        + B                                            (level 2)    [NAUO6]

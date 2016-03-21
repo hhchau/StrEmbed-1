@@ -1,0 +1,9 @@
+(lock_assy_5_parts_flat
+    (lock_assy_5_parts_flat ())
+        (lower_half_pin_x-depth_2 (lock_assy_5_parts_flat))
+        (core_c_one-pair_of_pins (lock_assy_5_parts_flat))
+        (upper_half_pin_y_cut_depth_2 (lock_assy_5_parts_flat))
+        (key_f (lock_assy_5_parts_flat))
+        (cylinder_d_one-pair_of_pins (lock_assy_5_parts_flat))
+    (0 (core_c_one-pair_of_pins key_f lower_half_pin_x-depth_2 upper_half_pin_y_cut_depth_2 cylinder_d_one-pair_of_pins))
+)

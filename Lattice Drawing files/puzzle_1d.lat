@@ -1,0 +1,10 @@
+(puzzle_1d
+    (puzzle_1d ())
+        (C (puzzle_1d))
+        (ADE (puzzle_1d))
+            (A (ADE))
+            (D (ADE))
+            (E (ADE))
+        (B (puzzle_1d))
+    (0 (A D C B E))
+)

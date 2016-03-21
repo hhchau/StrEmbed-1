@@ -1,0 +1,11 @@
+(lock_assy
+	(eg ())
+	(e (eg))
+	(g (eg))
+	(d (e))
+	(y (e))
+	(c (g))
+	(f (g))
+	(x (g))
+	(0 (d y c f x))
+)
